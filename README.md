@@ -36,7 +36,6 @@ our  ```KNN_Best_Params()``` function determines n_neighbors: 9 as best params. 
 Neighborhood Components Analysis is a distance metric learning algorithm which aims to improve the accuracy of nearest neighbors classification compared to the standard Euclidean distance.(from sklearn)
 
 ![nca](https://user-images.githubusercontent.com/30235603/77831744-01312680-7142-11ea-825f-5ec806a58695.png)
-nca classify clearly
 
 I want to show you something on the graph. maybe you can think model is overfitted but actually not. 
 
